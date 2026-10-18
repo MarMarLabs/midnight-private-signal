@@ -4,7 +4,7 @@ Important: do not submit this file verbatim. Midnight issue #314 says substantia
 
 Target bounty: https://github.com/midnightntwrk/contributor-hub/issues/314
 
-Repository: https://github.com/marmar9615-cloud/midnight-private-signal
+Repository: https://github.com/MarMarLabs/midnight-private-signal
 
 Suggested title: Building Private Signal Board: a Full-Stack Midnight dApp with Compact, Witnesses, React, and Off-Chain Metadata
 
@@ -475,5 +475,5 @@ Do not skip the last phrase. The issue text asks for that exact review signal.
 ## 22. Reference Links
 
 - Bounty issue: https://github.com/midnightntwrk/contributor-hub/issues/314
-- Repository: https://github.com/marmar9615-cloud/midnight-private-signal
+- Repository: https://github.com/MarMarLabs/midnight-private-signal
 - Midnight contributor hub terms: https://github.com/midnightntwrk/contributor-hub/blob/main/legal/BOUNTY_TERMS.md

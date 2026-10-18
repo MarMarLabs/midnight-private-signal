@@ -27,7 +27,7 @@ The walkthrough covers:
 - GitHub Actions CI for the full workspace
 
 Article: https://dev.to/marmar9615cloud/building-private-signal-board-a-full-stack-midnight-dapp-with-compact-witnesses-react-and-41cm
-Repository: https://github.com/marmar9615-cloud/midnight-private-signal
+Repository: https://github.com/MarMarLabs/midnight-private-signal
 
 #MidnightforDevs @midnightntwrk
 ```

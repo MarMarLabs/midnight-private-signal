@@ -10,8 +10,8 @@ Hi Midnight team,
 I built **Private Signal Board**, a full-stack Midnight dApp tutorial project showing a Compact contract, TypeScript witnesses/API, a React UI, and a small metadata API for off-chain context.
 
 Article: https://dev.to/marmar9615cloud/building-private-signal-board-a-full-stack-midnight-dapp-with-compact-witnesses-react-and-41cm
-Repository: https://github.com/marmar9615-cloud/midnight-private-signal
-Screenshot: https://github.com/marmar9615-cloud/midnight-private-signal/blob/main/docs/assets/private-signal-board.png
+Repository: https://github.com/MarMarLabs/midnight-private-signal
+Screenshot: https://github.com/MarMarLabs/midnight-private-signal/blob/main/docs/assets/private-signal-board.png
 Social post: https://x.com/MarMarLabs/status/2053589507165843714
 
 What is included:

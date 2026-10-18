@@ -1,10 +1,10 @@
 # Building Private Signal Board: a Full-Stack Midnight dApp with Compact, Witnesses, React, and Off-Chain Metadata
 
-Repository: https://github.com/marmar9615-cloud/midnight-private-signal
+Repository: https://github.com/MarMarLabs/midnight-private-signal
 
 Bounty issue: https://github.com/midnightntwrk/contributor-hub/issues/314
 
-![Private Signal Board UI](https://raw.githubusercontent.com/marmar9615-cloud/midnight-private-signal/main/docs/assets/private-signal-board.png)
+![Private Signal Board UI](https://raw.githubusercontent.com/MarMarLabs/midnight-private-signal/main/docs/assets/private-signal-board.png)
 
 ## 1. Opening Angle
 
@@ -451,5 +451,5 @@ That order turns the article from a list of files into a working developer story
 ## 21. Reference Links
 
 - Bounty issue: https://github.com/midnightntwrk/contributor-hub/issues/314
-- Repository: https://github.com/marmar9615-cloud/midnight-private-signal
+- Repository: https://github.com/MarMarLabs/midnight-private-signal
 - Midnight contributor hub terms: https://github.com/midnightntwrk/contributor-hub/blob/main/legal/BOUNTY_TERMS.md

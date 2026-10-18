@@ -4,7 +4,7 @@ This is the human handoff for getting paid if the Midnight issue #314 submission
 
 ## What is already done
 
-- Public GitHub repo exists: https://github.com/marmar9615-cloud/midnight-private-signal
+- Public GitHub repo exists: https://github.com/MarMarLabs/midnight-private-signal
 - Main branch CI and scan workflows are passing.
 - Screenshot asset exists at `docs/assets/private-signal-board.png`.
 - Article workbook exists at `docs/article-workbook-not-for-direct-submission.md`.

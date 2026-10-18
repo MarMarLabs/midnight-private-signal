@@ -6,7 +6,7 @@ Use this as the post-publish status sheet.
 
 - Published DEV article: https://dev.to/marmar9615cloud/building-private-signal-board-a-full-stack-midnight-dapp-with-compact-witnesses-react-and-41cm
 - X social post: https://x.com/MarMarLabs/status/2053589507165843714
-- Repo: https://github.com/marmar9615-cloud/midnight-private-signal
+- Repo: https://github.com/MarMarLabs/midnight-private-signal
 - Bounty issue: https://github.com/midnightntwrk/contributor-hub/issues/314
 - Review comment: https://github.com/midnightntwrk/contributor-hub/issues/314#issuecomment-4416393433
 
